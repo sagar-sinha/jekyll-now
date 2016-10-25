@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I study Computer Science at the University of Pennsylvania. I graduated with a Bachelor's degree in Computer Science from MIT Manipal in 2015. I'm interested in security of distributed systems, scaling software to millions of users, code quality, Machine learning applicatuons in Finance and agriculture. I care about the advances in understanding the semantics of the spoken languages by machines, government policies to ensure the safety of individuals and organisations in a connected world from black hats.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:sagar0327@gmail.com)
