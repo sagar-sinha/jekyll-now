@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome all!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I'm Sagar and it's lovely to have you here. I blog about a lot of varied topics but mostly Computer Science, Cricket and Politics. I hope you have a good time reading some of my thoughts and I would love to hear from you. If you have any comments, suggestions or would like to chat just send me an email at sagar[at]gmail.com 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
