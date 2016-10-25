@@ -3,8 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name:
-Sagar Sinha
+name: Sagar Sinha
 
 # Short bio or description (displayed in the header)
 description: love watching bits fly in a network, reading investigative reporting on just about anything, and catching a glimpse of early morning Test Cricket fills my heart with joy.
@@ -23,7 +22,7 @@ footer-links:
   flickr:
   github: sagar-sinha/
   instagram:
-  linkedin: in/sagar-sinha-622a9b28
+  linkedin: sagar-sinha-622a9b28
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: sagar0327
