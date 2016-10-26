@@ -7,4 +7,4 @@ I study Computer Science at the <a href="http://www.cis.upenn.edu/">University o
 
 ### Contact me
 
-[email@domain.com](mailto:sagar0327@gmail.com)
+[here](mailto:sagar0327@gmail.com)
