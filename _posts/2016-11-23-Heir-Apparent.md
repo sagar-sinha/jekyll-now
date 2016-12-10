@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heir apparent!
+title: Specializing vs Knowing it all!
 ---
 
 Who is the next Ricky Ponting, Sachin Tendulkar, Brian Lara or Jacques Kallis? Growing up watching these magnificent players in the 1990s and much of 2000s was an unbelievable experience. It’s not that their respective teams didn’t have other good players, but just the price opponent teams put on their wickets made them a compelling watch. They were the blockbusters, batters whom the crowds tuned in to watch no matter what. They were the Most Fearsome, the Master Blaster, the Genius and the Rock. Watching them in action was a spectacle every fan wishes for.
